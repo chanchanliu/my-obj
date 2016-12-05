@@ -19,6 +19,9 @@
 3. 第三点:
 
 > 例如这样
+> $$latex
+f(x;\mu,\sigma^2) = \frac{1}{\sigma\sqrt{2\pi}} e^{ -\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2 }
+$$
 
 ## 插入链接
 [Baidu](http://baidu.com)
