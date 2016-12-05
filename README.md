@@ -21,3 +21,9 @@
 3. 第三点:
 
 > 例如这样
+
+## 插入链接
+[Baidu](http://baidu.com)
+
+## 插入图片
+![Mou icon](http://mouapp.com/Mou_128.png)
